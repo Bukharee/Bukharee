@@ -51,6 +51,6 @@ I'm a **Fullstack Sofware Engineer**, developing **Web Applications** with profe
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-[![Linkedin: Bukhari](https://img.shields.io/badge/-A4Gumel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bukhari-auwal-idris/)](https://www.linkedin.com/in/bukhari-auwal-idris/)
+[![Linkedin: Bukhari](https://img.shields.io/badge/-Bukhari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bukhari-auwal-idris/)](https://www.linkedin.com/in/bukhari-auwal-idris/)
 <a href="mailto:idrisbukhariauwal@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-idrisbukhariauwal@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
