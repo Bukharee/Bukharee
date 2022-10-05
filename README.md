@@ -1,6 +1,6 @@
 <h2> Hi there 👋 I'm Bukhari.</h2>
 
-I'm a **Fullstack Sofware Engineer**, developing **Web Applications** with professional experience developing APIs with Django,Flask and Node (Express) my primary progaramming languages are Python and JavaScript, although . Developed Secured, efficient, and with little-to-no downtime cloud systems. Spend over 4 years analyzing customer needs, designing systems and solutions, coding, and debugging.
+I'm a **Fullstack Sofware Engineer**, developing **Web Applications** with professional experience developing APIs with Django, Flask and Node (Express).My primary progaramming languages are Python and JavaScript, although i adapt pretty quickly if thrown another (i tried with dart). Developed Secured, efficient, end-to-end tested Softwares. Spend over 4 years analyzing user needs, brainstorming, designing systems and solutions, coding and debugging.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -42,8 +42,8 @@ I'm a **Fullstack Sofware Engineer**, developing **Web Applications** with profe
   
   <br/>
 
-<a href="https://github.com/a4gumel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a4gumel&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/ahmadadejumo/github-readme-stats" />
+<a href="https://github.com/Bukharee">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a4gumel&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/bukharee/github-readme-stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a4gumel&theme=buefy&layout=compact" />
 </a>
 
