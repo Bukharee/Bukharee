@@ -41,10 +41,7 @@ I'm a **Fullstack Sofware Engineer**, developing **Web Applications** with profe
   
   <br/>
 
-<a href="https://github.com/Bukharee">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a4gumel&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/bukharee/github-readme-stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a4gumel&theme=buefy&layout=compact" />
-</a>
+
 
 <br/>
 
