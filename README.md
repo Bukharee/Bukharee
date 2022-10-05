@@ -4,9 +4,9 @@ I'm a **Fullstack Sofware Engineer**, developing **Web Applications** with profe
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🌑 &nbsp; Exploring new technologies and developing efficient and scalable software solutions.
-- 💼 &nbsp; Working as an Android Software Engineer at Quick Supply LTD.
-- 🌱 &nbsp; Exploring and Passionate about Cloud Architecture, ELectronics, Robotics and Artificial Intelligence.
+- 🌑 &nbsp; Exploring Computer Science Concepts and trying to understands how things works under the hood.
+- 💼 &nbsp; Working as Software Engineer at Quick Supply LTD.
+- 🌱 &nbsp; Exploring and Passionate about Artificial Intelligence, ELectronics, NeuroScience.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
