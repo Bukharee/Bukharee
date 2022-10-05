@@ -1,6 +1,6 @@
 <h2> Hi there 👋 I'm Bukhari.</h2>
 
-I'm a **Fullstack Sofware Engineer**, developing **Web Applications** with professional experience developing APIs with Django and specialized in Python and JavaScript. Developed Secured, efficient, and with little-to-no downtime cloud systems. Spend over 4 years analyzing customer needs, designing systems and solutions, coding, and debugging.
+I'm a **Fullstack Sofware Engineer**, developing **Web Applications** with professional experience developing APIs with Django,Flask and Node (Express) my primary progaramming languages are Python and JavaScript, although . Developed Secured, efficient, and with little-to-no downtime cloud systems. Spend over 4 years analyzing customer needs, designing systems and solutions, coding, and debugging.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
