@@ -5,7 +5,7 @@ I'm a **Fullstack Sofware Engineer**, developing **Web Applications** with profe
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🌑 &nbsp; Exploring Computer Science Concepts and trying to understands how things works under the hood.
-- 💼 &nbsp; Working as Software Engineer at Quick Supply LTD.
+- 💼 &nbsp; Working as Software Engineer at Ovabor Labs LTD.
 - 🌱 &nbsp; Exploring and Passionate about Artificial Intelligence, ELectronics, NeuroScience.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
